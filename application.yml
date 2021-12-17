@@ -1,3 +1,7 @@
-
 logging:
-   level:
+  level:
+    root: ERROR
+    org.springframework.web: ERROR
+    com.securian.innovationsprint.department.service: INFO
+    com.securian.innovationsprint.department.service.controller: DEBUG
+    com.securian.innovationsprint.department.service.service: INFO
