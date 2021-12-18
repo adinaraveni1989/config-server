@@ -1,0 +1,4 @@
+service:
+  name: DEPARTMENT-SERVICE
+server:
+  port: 9001
